@@ -1,0 +1,1 @@
+--Kesalahan nya pada penggunaan alias, karena sales customer sudah di definisikan C dan sales order sudah di definisikan O, maka di on nya menggunakan alias yaang sama dengan menggunakan alias c sebagai sales cuustomer, dan o sebagai sales order. 
